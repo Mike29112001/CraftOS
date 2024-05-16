@@ -1,18 +1,7 @@
-# Chest Monitor Installation Guide
+# ComputerCraft
+**ComputerCraft** is a mod for **Minecraft** that introduces programmable computers and robots into the game. With this mod, you can create a wide range of contraptions, from password-protected doors to intricate graphical **operating systems,** all within the Minecraft world. Additionally, by utilizing turtles, you can automate tasks such as mining and farming.
+## Chest Monitor Installation Guide
 
 ## Installation Instructions
 
-1. Download and run the `install.lua` script on your ComputerCraft computer.
-2. Restart the computer.
-3. The chest monitor will automatically start.
-
-## Commands
-
-Run the following command to download and execute the install script:
-
-
-
-
-
-
-
+1. Download the `install.lua` script onto your ComputerCraft computer.
